@@ -1,6 +1,6 @@
 # RLOSF23-ScreeningExercise
 
-#Exercise 1: Working with VW
+## Exercise 1: Working with VW
 1. Compile and run VW.
 <img width="414" alt="pic" src="https://user-images.githubusercontent.com/57267583/228522332-188248c1-21f4-4441-83a9-06fe548a2f40.png">
 

@@ -9,3 +9,9 @@
 
 3. Commit this to your own fork of the repo.<br>
 https://github.com/rum1887/vowpal_wabbit/tree/hello-world 
+
+## Exercise 2: Working with Lua
+
+1. w
+2. em
+3. 

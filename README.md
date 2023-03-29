@@ -12,6 +12,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 
 ## Exercise 2: Working with Lua
 
-1. w
-2. em
-3. 
+1. Build Lua.
+2. Create Lua object in C++. Print “[your name] says hello” from within Lua.
+3. Pass an int variable to Lua and print out the value in Lua
+4. Change value of an int variable in Lua and print it out in C++

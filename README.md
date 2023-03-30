@@ -26,5 +26,8 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 4. <em>Change value of an int variable in Lua and print it out in C++</em>
 
 ## Instructions to build and run the application
+1. Clone the repository
+2. Complile each tasks by passing two flags: <br> -I flag includes path to the directory which contains "liblua.a" file <br> - L flag helps the linker find the header files located in the source folder of LUA.<br> `gcc task1.cpp  -L /usr/local/include/lua-5.4.4/lib -I ~/lua-5.4.4/src -llua -o task1`
 
+3. 
 Contact: ramyapgk.tech@gmail.com is case of any queries.

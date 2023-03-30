@@ -3,13 +3,15 @@
 ## Feature Engineering in VW using LUA
 
 ### General Description
-The following repository contains the files generated on completing the screening tasks for the project Feature "Engineering in VW using LUA". Highly interested to contribute to the project !
+The following repository contains the files generated on completing the screening tasks for the project "Feature Engineering in VW using LUA". Highly interested to contribute to the project !
 
-### System used
-- MacBook Air (M1, 2020)
-- macOS Monetry Version 12.6
-- arm64 Architecture
-- lua5-.4.4
+Submitted by Ramyashri Padmanabhakumar
+
+### System details
+- System: MacBook Air (M1, 2020)
+- OS: macOS Monetry Version 12.6
+- Architecture: arm64
+- Lua version: lua-5.4.4
 
 ### Exercise 1: Working with VW
 1._ Compile and run VW _<br><br>Output(1)<br><br><img width="414" alt="pic" src="https://user-images.githubusercontent.com/57267583/228522332-188248c1-21f4-4441-83a9-06fe548a2f40.png">

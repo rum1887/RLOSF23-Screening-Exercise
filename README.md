@@ -39,4 +39,4 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 3. _Output the file_ <br> ```./task1``` <br>
 
 Submitted by Ramyashri Padmanabhakumar<br>
-Contact: [CLick here to mail me](ramyapgk.tech@gmail.com) is case of any queries.
+Contact: [Click here to mail me](ramyapgk.tech@gmail.com) is case of any queries.

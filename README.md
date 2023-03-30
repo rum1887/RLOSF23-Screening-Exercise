@@ -14,7 +14,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 
 ### Exercise 2: Working with Lua
 
-1. <em>Build Lua</em><br><img width="401" alt="Screenshot 2023-03-29 at 5 50 28 PM" src="https://user-images.githubusercontent.com/57267583/228533664-4d483ef5-43cc-4e17-bcd5-ef1be58b7b05.png">
+1. <em>Build Lua</em><br><br><img width="401" alt="Screenshot 2023-03-29 at 5 50 28 PM" src="https://user-images.githubusercontent.com/57267583/228533664-4d483ef5-43cc-4e17-bcd5-ef1be58b7b05.png">
 
 2. <em>Create Lua object in C++. Print “[your name] says hello” from within Lua</em>
 

@@ -1,6 +1,8 @@
 # RLOSF23-ScreeningExercise
 
-## Exercise 1: Working with VW
+## Feature Engineering in VW using LUA
+
+### Exercise 1: Working with VW
 1. Compile and run VW
 <img width="414" alt="pic" src="https://user-images.githubusercontent.com/57267583/228522332-188248c1-21f4-4441-83a9-06fe548a2f40.png">
 
@@ -11,7 +13,7 @@
 3. Commit this to your own fork of the repo<br>
 https://github.com/rum1887/vowpal_wabbit/tree/hello-world 
 
-## Exercise 2: Working with Lua
+### Exercise 2: Working with Lua
 
 1. Build Lua
 <img width="401" alt="Screenshot 2023-03-29 at 5 50 28 PM" src="https://user-images.githubusercontent.com/57267583/228533664-4d483ef5-43cc-4e17-bcd5-ef1be58b7b05.png">

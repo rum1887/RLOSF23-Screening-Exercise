@@ -36,7 +36,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 
 ## Instructions to build and run the application
 1. _Clone the repository_ <br> `git clone https://github.com/rum1887/RLOSF23-Screening-Exercise`
-2. _Complile each tasks by passing two flags_: <br> - I flag includes path to the directory which contains "liblua.a" file <br> - L flag helps the linker find the header files located in the source folder of LUA.<br> `gcc task1.cpp  -L /usr/local/include/lua-5.4.4/lib -I ~/lua-5.4.4/src -llua -o task1`
+2. _Complile each task by passing two flags as arguments_: <br> - I flag includes path to the directory which contains "liblua.a" file <br> - L flag helps the linker find the header files located in the source folder of LUA.<br> `gcc task1.cpp  -L /usr/local/include/lua-5.4.4/lib -I ~/lua-5.4.4/src -llua -o task1`
 
 3. _Output the file_ <br> `./task1` <br>
 Contact: _ramyapgk.tech@gmail.com_ is case of any queries.

@@ -26,4 +26,4 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 
 ## Instructions to build and run the application
 
-Contact ramyapgk.tech@gmail.com is case of any queries. Happy to help!
+Contact: ramyapgk.tech@gmail.com is case of any queries.

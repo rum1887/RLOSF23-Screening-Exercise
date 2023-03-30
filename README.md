@@ -5,8 +5,6 @@
 ### General Description
 The following repository contains the files generated on completing the screening tasks for the project "Feature Engineering in VW using LUA". Highly interested to contribute to the project !
 
-Submitted by Ramyashri Padmanabhakumar
-
 ### System details
 - System: MacBook Air (M1, 2020)
 - OS: macOS Monetry Version 12.6
@@ -39,4 +37,6 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 2. _Complile each task by passing the following flags as arguments_: <br> - I flag includes path to the directory which contains "liblua.a" file and include directory in the OS<br> - L flag helps the linker find the header files located in the source folder of LUA.<br> ```gcc task1.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -o task1```
 
 3. _Output the file_ <br> ```./task1``` <br>
+
+Submitted by Ramyashri Padmanabhakumar
 Contact: _ramyapgk.tech@gmail.com_ is case of any queries.

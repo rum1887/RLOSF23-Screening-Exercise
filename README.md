@@ -5,7 +5,7 @@
 ### General Description
 
 ### Exercise 1: Working with VW
-1. <em>Compile and run VW</em> <br><br><img width="414" alt="pic" src="https://user-images.githubusercontent.com/57267583/228522332-188248c1-21f4-4441-83a9-06fe548a2f40.png">
+1. <em>Compile and run VW</em> <br><br>Output(1)<br><img width="414" alt="pic" src="https://user-images.githubusercontent.com/57267583/228522332-188248c1-21f4-4441-83a9-06fe548a2f40.png">
 
 2. <em>Add some code to print “Hello world” when VW starts</em> <br><br>
 Output (1):<br><br><img width="319" alt="Screenshot 2023-03-31 at 4 10 43 AM" src="https://user-images.githubusercontent.com/57267583/228979409-b28ec5df-8960-403f-828c-9532a4c25429.png"><br>

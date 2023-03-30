@@ -2,6 +2,8 @@
 
 ## Feature Engineering in VW using LUA
 
+### General Description
+
 ### Exercise 1: Working with VW
 1. <em>Compile and run VW</em> <br><br><img width="414" alt="pic" src="https://user-images.githubusercontent.com/57267583/228522332-188248c1-21f4-4441-83a9-06fe548a2f40.png">
 
@@ -21,3 +23,5 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 3. <em>Pass an int variable to Lua and print out the value in Lua</em>
 
 4. <em>Change value of an int variable in Lua and print it out in C++</em>
+
+## Instructions to build and run the application

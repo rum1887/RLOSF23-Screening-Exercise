@@ -38,5 +38,5 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 
 3. _Output the file_ <br> ```./task1``` <br>
 
-Submitted by Ramyashri Padmanabhakumar
+Submitted by Ramyashri Padmanabhakumar<br>
 Contact: _ramyapgk.tech@gmail.com_ is case of any queries.

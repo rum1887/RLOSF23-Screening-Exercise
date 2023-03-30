@@ -8,7 +8,7 @@
 
 2. Add some code to print “Hello world” when VW starts <br>
 Output 1:
-<img width="424" alt="pic2" src="https://user-images.githubusercontent.com/57267583/228522754-7a69e7ca-10b3-4c2c-9c19-5b0d9361a73c.png">
+<img width="424" alt="pic2" src="https://user-images.githubusercontent.com/57267583/228522754-7a69e7ca-10b3-4c2c-9c19-5b0d9361a73c.png"><br>
 Output 2:
 <img width="856" alt="Screenshot 2023-03-29 at 8 48 52 PM" src="https://user-images.githubusercontent.com/57267583/228586960-0e1d0be9-7b0b-4880-a8fa-ebfba4fe81c1.png">
 

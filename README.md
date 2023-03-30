@@ -8,9 +8,11 @@
 1. <em>Compile and run VW</em> <br><br><img width="414" alt="pic" src="https://user-images.githubusercontent.com/57267583/228522332-188248c1-21f4-4441-83a9-06fe548a2f40.png">
 
 2. <em>Add some code to print “Hello world” when VW starts</em> <br><br>
-Output 1:<br><br><img width="1440" alt="vw --version" src="https://user-images.githubusercontent.com/57267583/228979004-b3cf6423-d4ce-43b7-ad12-4b320e792be4.png">
-Output 2:<br><br><img width="1440" alt="vw -h" src="https://user-images.githubusercontent.com/57267583/228979060-8b2c52bd-9582-413a-a577-4a70ad8e3ae9.png">
-Output 3:<br><br><img width="1440" alt="vw --h" src="https://user-images.githubusercontent.com/57267583/228979118-0954a2d3-6c05-4e95-bae9-a8dc5c1d9524.png">
+Output 1:<br><br><img width="319" alt="Screenshot 2023-03-31 at 4 10 43 AM" src="https://user-images.githubusercontent.com/57267583/228979409-b28ec5df-8960-403f-828c-9532a4c25429.png">
+
+Output 2:<br><br><img width="849" alt="Screenshot 2023-03-31 at 4 11 49 AM" src="https://user-images.githubusercontent.com/57267583/228979541-1c8412b6-e680-4af8-bcb6-eafe2b01b8c8.png">
+Output 3:<br><br><img width="434" alt="Screenshot 2023-03-31 at 4 12 54 AM" src="https://user-images.githubusercontent.com/57267583/228979796-345276c4-7c3f-4081-894d-e744a5d16772.png">
+
 3. <em>Commit this to your own fork of the repo</em><br>
 https://github.com/rum1887/vowpal_wabbit/tree/hello-world 
 

@@ -25,3 +25,5 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 4. <em>Change value of an int variable in Lua and print it out in C++</em>
 
 ## Instructions to build and run the application
+
+Contact ramyapgk.tech@gmail.com is case of any queries. Happy to help!

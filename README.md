@@ -16,7 +16,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 
 1. <em>Build Lua</em><br><br><img width="401" alt="Screenshot 2023-03-29 at 5 50 28 PM" src="https://user-images.githubusercontent.com/57267583/228533664-4d483ef5-43cc-4e17-bcd5-ef1be58b7b05.png">
 
-2. <em>Create Lua object in C++. Print “[your name] says hello” from within Lua</em>
+2. <em>Create Lua object in C++. Print “[your name] says hello” from within Lua</em><br><br><img width="1224" alt="Screenshot 2023-03-31 at 3 20 14 AM" src="https://user-images.githubusercontent.com/57267583/228972417-47c5d560-5129-4ccf-89c8-42c0108941c7.png">
 
 3. <em>Pass an int variable to Lua and print out the value in Lua</em>
 

@@ -22,7 +22,7 @@ Output (3):<br><br><img width="434" alt="Screenshot 2023-03-31 at 4 12 54 AM" sr
 https://github.com/rum1887/vowpal_wabbit/tree/hello-world 
 
 ### Instructions to build and run 
-1. _Clone my fork of vowpal wabbit_ <br>` git clone https://github.com/rum1887/vowpal_wabbit`
+1. _Clone my fork of vowpal wabbit_ <br>`git clone https://github.com/rum1887/vowpal_wabbit`
 2. _Follow the build and install instructions at_ <br> https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Building 
 3. _Add the build location to the `PATH` by replacing ramya with your user name in the bash script_:<br>
 - `vi ./zshrc`. Opens the bash/zsh shell

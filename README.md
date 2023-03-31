@@ -49,4 +49,4 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 
 ## About me
 Hi, I'm Ramyashri Padmanabhakumar<br>
-Let's chat tech at ramyapgk.tech@gmail.com !
+Mail at ramyapgk.tech@gmail.com incase of any queries

@@ -11,7 +11,7 @@ The following repository contains the files generated on completing the screenin
 - Architecture: arm64
 - Lua version: lua-5.4.4
 
-### Exercise 1: Working with VW
+## Exercise 1: Working with VW
 1. _Compile and run VW_ <br><br>Output(1)<br><br><img width="414" alt="pic" src="https://user-images.githubusercontent.com/57267583/228522332-188248c1-21f4-4441-83a9-06fe548a2f40.png">
 
 2. _Add some code to print “Hello world” when VW starts_ <br><br>
@@ -22,7 +22,13 @@ Output (3):<br><br><img width="434" alt="Screenshot 2023-03-31 at 4 12 54 AM" sr
 3. _Commit this to your own fork of the repo_<br>
 https://github.com/rum1887/vowpal_wabbit/tree/hello-world 
 
-### Exercise 2: Working with Lua
+### Instructions to build and run for Exercise (1)
+1. _Clone my fork of vowpal wabbit_ <br>` git clone https://github.com/rum1887/vowpal_wabbit`
+2. _Follow the build and install instructions at_ <br> https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Building 
+3. _Add the build location to the `PATH` by replacing ramya with your user name_: <br>`export PATH="/Users/ramya/vowpal_wabbit/build/vowpalwabbit/cli:$PATH"`
+4. _Run any vw command to see the output_. `vw --version`
+
+## Exercise 2: Working with Lua
 
 1. _Build Lua_<br><br>Output(1)<br><br><img width="401" alt="Screenshot 2023-03-29 at 5 50 28 PM" src="https://user-images.githubusercontent.com/57267583/228533664-4d483ef5-43cc-4e17-bcd5-ef1be58b7b05.png">
 
@@ -32,13 +38,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 
 4. _Change value of an int variable in Lua and print it out in C++_
 
-## Instructions to build and run for Exercise (1)
-1. _Clone my fork of vowpal wabbit_ <br>` git clone https://github.com/rum1887/vowpal_wabbit`
-2. _Follow the build and install instructions at_ <br> https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Building 
-3. _Add the build location to the `PATH` by replacing ramya with your user name_: <br>`export PATH="/Users/ramya/vowpal_wabbit/build/vowpalwabbit/cli:$PATH"`
-4. _Run any vw command to see the output_. `vw --version`
-
-## Instructions to build and run the application for Exercise (2)
+### Instructions to build and run the application for Exercise (2)
 1. _Clone the repository_ <br> ```git clone https://github.com/rum1887/RLOSF23-Screening-Exercise```
 2. _Complile each task using gcc compliler on the command line by passing the following flags as arguments_: <br>
 - -I flag includes path to the directory which contains "liblua.a" file and include directory in the OS 

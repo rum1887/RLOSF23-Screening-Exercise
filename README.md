@@ -25,11 +25,11 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 1. _Clone my fork of vowpal wabbit_ <br>` git clone https://github.com/rum1887/vowpal_wabbit`
 2. _Follow the build and install instructions at_ <br> https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Building 
 3. _Add the build location to the `PATH` by replacing ramya with your user name in the bash script_:<br>
-Opens the bash/zsh shell
+Opens the bash/zsh shell<br>
 - `vi ./zshrc` 
-Paste the build location to the shell.
+Paste the build location to the shell.<br>
 - `export PATH="/Users/ramya/vowpal_wabbit/build/vowpalwabbit/cli:$PATH"`. 
-Refresh the shell to record the changes.
+Refresh the shell to record the changes.<br>
 - `Source ./zshrc`. 
 4. _Run any vw command to see the output_.<br> `vw --version` <br>
 

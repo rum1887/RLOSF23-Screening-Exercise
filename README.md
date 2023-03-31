@@ -2,16 +2,17 @@
 
 ## Feature Engineering in VW using LUA
 
-### General Description
+## General Description
 The following repository contains the files generated on completing the screening tasks for the project "Feature Engineering in VW using LUA". Highly interested to contribute to the project !
 
-### System details
+## System details
 - System: MacBook Air (M1, 2020)
 - OS: macOS Monetry Version 12.6
 - Architecture: arm64
 - Lua version: lua-5.4.4
 
 ## Exercise 1: Working with VW
+### Tasks
 1. _Compile and run VW_ <br><br>Output(1)<br><br><img width="414" alt="pic" src="https://user-images.githubusercontent.com/57267583/228522332-188248c1-21f4-4441-83a9-06fe548a2f40.png">
 
 2. _Add some code to print “Hello world” when VW starts_ <br><br>
@@ -26,9 +27,11 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 1. _Clone my fork of vowpal wabbit_ <br>` git clone https://github.com/rum1887/vowpal_wabbit`
 2. _Follow the build and install instructions at_ <br> https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Building 
 3. _Add the build location to the `PATH` by replacing ramya with your user name_: <br>`export PATH="/Users/ramya/vowpal_wabbit/build/vowpalwabbit/cli:$PATH"`
-4. _Run any vw command to see the output_. `vw --version`
+4. _Run any vw command to see the output_.<br> `vw --version` <br>
 
 ## Exercise 2: Working with Lua
+
+### Tasks
 
 1. _Build Lua_<br><br>Output(1)<br><br><img width="401" alt="Screenshot 2023-03-29 at 5 50 28 PM" src="https://user-images.githubusercontent.com/57267583/228533664-4d483ef5-43cc-4e17-bcd5-ef1be58b7b05.png">
 

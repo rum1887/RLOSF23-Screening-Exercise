@@ -33,7 +33,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 4. _Change value of an int variable in Lua and print it out in C++_
 
 ## Instructions to build and run the application for Exercise 1
-1. _Clone the my fork of vowpal wabbit_ <br> git clone [https://github.com/rum1887/vowpal_wabbit](https://github.com/rum1887/vowpal_wabbit)
+1. _Clone my fork of vowpal wabbit_ <br>` git clone https://github.com/rum1887/vowpal_wabbit`
 2. _Follow the build and install instructions at_ : https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Building 
 3. _Add the build location to the `PATH` by replacing ramya with your user name_: /Users/ramya/vowpal_wabbit/build/vowpalwabbit/cli
 4. _Run any vw command to see the output_. `vw --version`

@@ -35,7 +35,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 ## Instructions to build and run for Exercise (1)
 1. _Clone my fork of vowpal wabbit_ <br>` git clone https://github.com/rum1887/vowpal_wabbit`
 2. _Follow the build and install instructions at_ <br> https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Building 
-3. _Add the build location to the `PATH` by replacing ramya with your user name_: <br>/Users/ramya/vowpal_wabbit/build/vowpalwabbit/cli
+3. _Add the build location to the `PATH` by replacing ramya with your user name_: <br>export PATH="/Users/ramya/vowpal_wabbit/build/vowpalwabbit/cli:$PATH"
 4. _Run any vw command to see the output_. `vw --version`
 
 ## Instructions to build and run the application for Exercise (2)

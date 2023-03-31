@@ -1,7 +1,7 @@
 # RLOSF23-ScreeningExercise
 
 ## Feature Engineering in VW using LUA
-The following repository contains the files generated on completing the screening tasks for the project "Feature Engineering in VW using LUA". Highly interested to contribute to the project !
+The following repository contains the files generated on completing the screening tasks for the project _Feature Engineering in VW using LUA_. Highly interested to contribute to the project !
 
 ## System details
 - System: MacBook Air (M1, 2020)

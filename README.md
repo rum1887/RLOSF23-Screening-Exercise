@@ -1,4 +1,4 @@
-# RLOSF23-ScreeningExercise
+# Reinforcement Learning opensource fest Screening Task 2023
 
 ## Feature Engineering in VW using LUA
 The following repository contains the files generated on completing the screening tasks for the project _Feature Engineering in VW using LUA_. Highly interested to contribute to the project !

@@ -26,8 +26,8 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world
 2. Follow the build and install instructions at <br> https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Building<br>
 3. Add the build location to the `PATH` by replacing ramya with your user name in the bash script:<br>
 - `vi ./zshrc`. Opens the bash/zsh shell
-- `export PATH="/Users/ramya/vowpal_wabbit/build/vowpalwabbit/cli:$PATH"`.Paste the build location to the shell
-- `Source ./zshrc`. Refresh the shell to record the changes.
+- `export PATH="/Users/ramya/vowpal_wabbit/build/vowpalwabbit/cli:$PATH"`. Paste the build location to the shell
+- `Source ./zshrc`. Refresh the shell to record the changes
 4. Run any vw command to see the output<br> `vw --version` <br>
 
 ## Exercise 2: Working with Lua

@@ -1,4 +1,4 @@
-# Reinforcement Learning opensource fest Screening Task 2023
+# Reinforcement Learning Open-Source Fest Screening Task 2023
 
 ## Feature Engineering in VW using LUA
 The following repository contains the files generated on completing the screening tasks for the project <b>Feature Engineering in Vowpal Wabbit using Lua</b>.

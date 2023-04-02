@@ -47,9 +47,9 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 - -L flag helps the linker find thedirectory which contains "liblua.a" file.
 - -llua
 - -lstdc++ <br>
-Here's the command to run the createLuaObject.cpp file :<br>
+Here's the command to compile the createLuaObject.cpp file :<br>
 ```gcc createLuaObject.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -lstdc++ -o createLuaObject```
-3. Output the file <br> ```./createLuaObject``` <br>
+3. Command to run the compiled file <br> ```./createLuaObject``` <br>
 
 ## References
 [Programming In Lua - Lua Quick Start Guide [Book]](https://www.oreilly.com/library/view/lua-quick-start/9781789343229/e839a89f-d773-4f06-aa24-171fee62aa3f.xhtml#:~:text=The%20first%20edition%20of%20Programming,and%20nearly%20200%20top%20publishers.)

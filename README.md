@@ -24,7 +24,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 ### Instructions to build and run 
 1. Clone my fork of vowpal wabbit <br>`git clone https://github.com/rum1887/vowpal_wabbit`<br>
 2. Follow the build and install instructions at <br> https://github.com/VowpalWabbit/vowpal_wabbit/wiki/Building<br>
-3. Add the build location to the `PATH` by replacing ramya with your user name in the bash script:<br>
+3. Add the build location to the `PATH` by replacing "ramya" with your user name in the bash script:<br>
 - `vi ./zshrc`. Opens the bash/zsh shell
 - `export PATH="/Users/ramya/vowpal_wabbit/build/vowpalwabbit/cli:$PATH"`. Paste the build location to the shell
 - `Source ./zshrc`. Refresh the shell to record the changes

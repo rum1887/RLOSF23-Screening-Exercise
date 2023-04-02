@@ -1,6 +1,6 @@
-// C++ program to illustrate the use of
-// LuaCpp library
-//#include <LuaCpp.hpp>
+// Program to illustrate how to pass an int variable to Lua and print out the value in Lua
+// This program can be used as a reference to complete the following task "Pass feature data and label into Lua and print to console from Lua"
+
 // include Lua headers
 extern "C" {
     #include "lua.h"

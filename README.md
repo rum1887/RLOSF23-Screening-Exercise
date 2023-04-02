@@ -34,17 +34,20 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 ### Tasks
 1. Build Lua<br><br>Output (1):<br><br><img width="401" alt="Screenshot 2023-03-29 at 5 50 28 PM" src="https://user-images.githubusercontent.com/57267583/228533664-4d483ef5-43cc-4e17-bcd5-ef1be58b7b05.png">
 
-2. Create Lua object in C++. Print “[your name] says hello” from within Lua<br><br>Output (1):<br><br><img width="1224" alt="Screenshot 2023-03-31 at 3 20 14 AM" src="https://user-images.githubusercontent.com/57267583/228972417-47c5d560-5129-4ccf-89c8-42c0108941c7.png">
+2. Create Lua object in C++. Print “[your name] says hello” from within Lua<br><br>Output (1):<br><br><img width="1430" alt="Screenshot 2023-04-02 at 1 53 58 PM" src="https://user-images.githubusercontent.com/57267583/229341464-31a35917-5208-4aee-bb4e-3fff1b8607ba.png">
 
-3. Pass an int variable to Lua and print out the value in Lua<br><br>Output (1):<br><br><img width="1281" alt="Screenshot 2023-03-31 at 5 42 28 AM" src="https://user-images.githubusercontent.com/57267583/228991650-fae4ae07-802a-4f83-b875-9dc7abd98df0.png">
+3. Pass an int variable to Lua and print out the value in Lua<br><br>Output (1):<br><br><img width="1430" alt="Screenshot 2023-04-02 at 1 56 07 PM" src="https://user-images.githubusercontent.com/57267583/229341493-3c9a02e4-5a51-45f3-a3fb-bcf944eb8744.png">
 
-4. Change value of an int variable in Lua and print it out in C++<br><br>Output (1):<br><br><img width="1284" alt="Screenshot 2023-03-31 at 5 44 06 AM" src="https://user-images.githubusercontent.com/57267583/228991797-f1994e88-7b92-413d-884d-b12ad097dfb2.png">
+4. Change value of an int variable in Lua and print it out in C++<br><br>Output (1):<br><br><img width="1428" alt="Screenshot 2023-04-02 at 1 52 16 PM" src="https://user-images.githubusercontent.com/57267583/229341511-ab5852d3-687f-43a7-8915-c239db06ec77.png">
 
 ### Instructions to build and run<br>
 1. Clone the repository <br> ```git clone https://github.com/rum1887/RLOSF23-Screening-Exercise```
 2. Complile each task using gcc compliler on the command line by passing the following flags as arguments: <br>
-- -I flag includes path to the directory which contains "liblua.a" file and include directory in the OS 
-- -L flag helps the linker find the header files located in the source folder of LUA.<br> ```gcc task1.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -o task1```
+- -I flag includes path to the directory of the source code and the header files 
+- -L flag helps the linker find thedirectory which contains "liblua.a" file.
+- -llua
+- -lstdc++
+<br> ```gcc task1.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -lstdc++ -o task1```
 3. Output the file <br> ```./task1``` <br>
 
 ## References

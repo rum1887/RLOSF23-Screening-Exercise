@@ -55,4 +55,4 @@ Here's the command to run the createLuaObject.cpp file :<br>
 [Programming In Lua - Lua Quick Start Guide [Book]](https://www.oreilly.com/library/view/lua-quick-start/9781789343229/e839a89f-d773-4f06-aa24-171fee62aa3f.xhtml#:~:text=The%20first%20edition%20of%20Programming,and%20nearly%20200%20top%20publishers.)
 <hr><br>
 
-Feel free to mail me at ramyapgk.tech@gmail.com incase of any queries <br> Have a nice day!
+Submitted by Ramyashri Padmanabhakumar<br>Feel free to mail me at ramyapgk.tech@gmail.com incase of any queries <br> Have a nice day!

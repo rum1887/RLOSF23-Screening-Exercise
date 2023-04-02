@@ -1,7 +1,6 @@
-// C++ program to illustrate the use of
-// LuaCpp library
-//#include <LuaCpp.hpp>
-// include Lua headers
+// C++ program to illustrate how to change the value of variables in lua and printing in C++.
+// The following program can be used as an reference to change features and label using Lua and print it in VW
+
 extern "C" {
     #include "lua.h"
     #include "lualib.h"
@@ -22,6 +21,8 @@ int main() {
     luaInt += 10;
     lua_pop(L, 1);
     lua_pushinteger(L, luaInt);
+    
+    //store in a cpp variable
     myInt=luaInt;
     
     // Print new integer value

@@ -18,6 +18,7 @@ int main() {
     
     // Retrieve integer variable from stack and change its value
     lua_Integer luaInt = luaL_checkinteger(L, -1);
+    //Modifying the data within lua
     luaInt += 10;
     lua_pop(L, 1);
     lua_pushinteger(L, luaInt);

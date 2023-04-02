@@ -42,13 +42,13 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 
 ### Instructions to build and run<br>
 1. Clone the repository <br> ```git clone https://github.com/rum1887/RLOSF23-Screening-Exercise```
-2. Complile each task using gcc compliler on the command line by passing the following flags as arguments: <br>
+2. Complile each file using gcc compliler on the command line by passing the file name.cpp and the following flags as arguments: <br>
 - -I flag includes path to the directory of the source code and the header files 
 - -L flag helps the linker find thedirectory which contains "liblua.a" file.
 - -llua
-- -lstdc++
-<br> ```gcc task1.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -lstdc++ -o task1```
-3. Output the file <br> ```./task1``` <br>
+- -lstdc++ <br>
+<br> ```gcc createLuaObject.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -lstdc++ -o createLuaObject```
+3. Output the file <br> ```./createLuaObject``` <br>
 
 ## References
 [Programming In Lua - Lua Quick Start Guide [Book]](https://www.oreilly.com/library/view/lua-quick-start/9781789343229/e839a89f-d773-4f06-aa24-171fee62aa3f.xhtml#:~:text=The%20first%20edition%20of%20Programming,and%20nearly%20200%20top%20publishers.)

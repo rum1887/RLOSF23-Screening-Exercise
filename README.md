@@ -2,7 +2,7 @@
 
 ## Feature Engineering in VW using LUA
 The following repository contains the files generated on completing the screening tasks for the project <b>Feature Engineering in Vowpal Wabbit using Lua</b>.
-
+For best experience view on dark mode.<br>
 ## System details
 - System: MacBook Air (M1, 2020)
 - OS: macOS Monetry Version 12.6

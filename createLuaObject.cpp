@@ -1,3 +1,6 @@
+// A C++ program to illustrate how to create a lua object in C++ and print from within Lua
+//This program can be used as a referernce to "Add Lua to VW and print “[your name] says hello from VW Lua"
+
 // include Lua headers
 extern "C" {
     #include "lua.h"
@@ -15,7 +18,6 @@ int main() {
 	lua_getfield(L, -1, "io");
 	if (!lua_isnil(L, -1)) {
     		lua_pop(L, 3);
-    		// "print" function should be available now
     		lua_pushstring(L, "Ramya says hello");
     		lua_getglobal(L, "print");
     		lua_insert(L, -2);

@@ -48,7 +48,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 - -llua
 - -lstdc++ <br>
 Here's the command to compile the createLuaObject.cpp file :<br>
-```gcc createLuaObject.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -lstdc++ -o createLuaObject```
+```g++ createLuaObject.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -lstdc++ -o createLuaObject```
 3. Command to run the compiled file <br> ```./createLuaObject``` <br>
 
 ## References

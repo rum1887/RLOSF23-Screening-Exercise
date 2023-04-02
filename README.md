@@ -47,7 +47,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 - -L flag helps the linker find thedirectory which contains "liblua.a" file.
 - -llua
 - -lstdc++ <br>
-<br> ```gcc createLuaObject.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -lstdc++ -o createLuaObject```
+```gcc createLuaObject.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -lstdc++ -o createLuaObject```
 3. Output the file <br> ```./createLuaObject``` <br>
 
 ## References

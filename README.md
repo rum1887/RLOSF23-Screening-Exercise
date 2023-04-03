@@ -18,7 +18,7 @@ Output (1):<br><br><img width="319" alt="Screenshot 2023-03-31 at 4 10 43 AM" sr
 Output (2):<br><br><img width="849" alt="Screenshot 2023-03-31 at 4 11 49 AM" src="https://user-images.githubusercontent.com/57267583/228979541-1c8412b6-e680-4af8-bcb6-eafe2b01b8c8.png"><br><br>
 Output (3):<br><br><img width="434" alt="Screenshot 2023-03-31 at 4 12 54 AM" src="https://user-images.githubusercontent.com/57267583/228979796-345276c4-7c3f-4081-894d-e744a5d16772.png"><br>
 
-3. Commit this to your own fork of the repo and (here's)[https://github.com/rum1887/vowpal_wabbit/blob/hello-world/vowpalwabbit/cli/src/main.cc] the file modified<br>
+3. Commit this to your own fork of the repo and [here's](https://github.com/rum1887/vowpal_wabbit/blob/hello-world/vowpalwabbit/cli/src/main.cc) the file modified<br>
 https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 
 ### Instructions to build and run 

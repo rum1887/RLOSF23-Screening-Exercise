@@ -42,7 +42,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 
 ### Instructions to build and run<br>
 1. Clone the repository <br> ```git clone https://github.com/rum1887/RLOSF23-Screening-Exercise```
-2. Complile each file using gcc compliler on the command line by passing the file name and the following flags as arguments: <br>
+2. Complile each file using g++ compliler on the command line by passing the file name and the following flags as arguments: <br>
 - -I flag includes path to the directory of the source code and the header files 
 - -L flag helps the linker find thedirectory which contains "liblua.a" file.
 - -llua

@@ -49,7 +49,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 - -I flag includes path to the directory of the source code and the header files 
 - -L flag helps the linker find thedirectory which contains "liblua.a" file.
 - -llua
-- -lstdc++ <br>
+- -lstdc++ <br><br>
 Here's the command to compile the createLuaObject.cpp file :<br>
 ```g++ createLuaObject.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -lstdc++ -o createLuaObject```
 5. Command to run the compiled file <br> ```./createLuaObject``` <br>

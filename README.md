@@ -47,7 +47,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 ```cd RLOSF23-Screening-Exercise```
 4. Complile each file using g++ compliler on the command line by passing the file name and the following flags as arguments inside the project folder: <br>
 - -I flag includes path to the directory of the source code and the header files 
-- -L flag helps the linker find thedirectory which contains "liblua.a" file.
+- -L flag helps the linker find thedirectory which contains "liblua.a" file. This can be found in the include/lib directory on a mac.
 - -llua
 - -lstdc++ <br><br>
 Here's the command to compile the createLuaObject.cpp file :<br>

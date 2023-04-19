@@ -41,15 +41,16 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 4. Change value of an int variable in Lua and print it out in C++. Here's the file created: [changeDataLua.cpp](https://github.com/rum1887/RLOSF23-Screening-Exercise/blob/main/changeDataLua.cpp)<br><br>Output (1):<br><br><img width="1428" alt="Screenshot 2023-04-02 at 1 52 16 PM" src="https://user-images.githubusercontent.com/57267583/229341511-ab5852d3-687f-43a7-8915-c239db06ec77.png">
 
 ### Instructions to build and run<br>
-1. Clone the repository <br> ```git clone https://github.com/rum1887/RLOSF23-Screening-Exercise```
-2. Complile each file using g++ compliler on the command line by passing the file name and the following flags as arguments: <br>
+1. Download Lua and follow the build instructions at https://www.lua.org.
+2. Clone the repository <br> ```git clone https://github.com/rum1887/RLOSF23-Screening-Exercise```
+3. Complile each file using g++ compliler on the command line by passing the file name and the following flags as arguments: <br>
 - -I flag includes path to the directory of the source code and the header files 
 - -L flag helps the linker find thedirectory which contains "liblua.a" file.
 - -llua
 - -lstdc++ <br>
 Here's the command to compile the createLuaObject.cpp file :<br>
 ```g++ createLuaObject.cpp -I ~/lua-5.4.4/src -I /usr/local/include/lua5-4.4/ -L /usr/local/include/lua-5.4.4/lib -llua -lstdc++ -o createLuaObject```
-3. Command to run the compiled file <br> ```./createLuaObject``` <br>
+4. Command to run the compiled file <br> ```./createLuaObject``` <br>
 
 ## References
 [Programming In Lua - Lua Quick Start Guide [Book]](https://www.oreilly.com/library/view/lua-quick-start/9781789343229/e839a89f-d773-4f06-aa24-171fee62aa3f.xhtml#:~:text=The%20first%20edition%20of%20Programming,and%20nearly%20200%20top%20publishers.)

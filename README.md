@@ -28,7 +28,7 @@ https://github.com/rum1887/vowpal_wabbit/tree/hello-world <br>
 - `vi ./zshrc`. Opens the bash/zsh shell
 - `export PATH="/Users/ramya/vowpal_wabbit/build/vowpalwabbit/cli:$PATH"`. Paste the build location to the shell
 - `Source ./zshrc`. Refresh the shell to record the changes
-4. Run any vw command to see the output<br> `vw --version` <br>
+4. Run any vw command to see the output/ just run the vw executable<br> `vw --version` <br>
 
 ## Exercise 2: Working with Lua
 ### Tasks
